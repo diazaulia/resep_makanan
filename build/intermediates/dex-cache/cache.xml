@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.android/build-cache/6135ba164be799cfcaf7176b02bae24a31f7db8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/mymac/AndroidStudioProjects/ResepMakanan/app/build/intermediates/pre-dexed/debug/classes_2e43f00d78e19b983355cc20f0c717ef3039c92b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymac/AndroidStudioProjects/ResepMakanan/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2135defce7e52b08ba219404a421e31572c88dfc">
+        <dex dex="/Users/mymac/AndroidStudioProjects/ResepMakanan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f697a3fad1fee15fa2630bcbc9e3b51cb1bd4a21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mymac/AndroidStudioProjects/ResepMakanan/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mymac/AndroidStudioProjects/ResepMakanan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_71287bfb9d12ba32a55de1f260c967d24016f97e/classes.dex" />
+    </item>
+
+</items>
